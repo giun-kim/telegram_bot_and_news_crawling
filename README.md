@@ -7,7 +7,7 @@
 <br/>
 
 ### 프로그램 흐름
-<img src="/흐름도.png" width="300px" height="250px" title="흐름도" alt="flow diagram"></img>
+<img src="https://user-images.githubusercontent.com/57981257/119594809-70261000-be17-11eb-80b0-9c64213a9a24.PNG" width="300px" height="250px" title="흐름도" alt="flow diagram"></img>
 
 <br/>
 
