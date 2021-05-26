@@ -18,5 +18,5 @@ Language - Python
 
 
 ## 참고자료
-[Telepot API][https://telepot.readthedocs.io/en/latest/]
-[Apscheduler][https://apscheduler.readthedocs.io/en/stable/userguide.html]
+[Telepot API](https://telepot.readthedocs.io/en/latest/)  
+[Apscheduler](https://apscheduler.readthedocs.io/en/stable/userguide.html)
